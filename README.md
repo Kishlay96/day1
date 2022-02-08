@@ -1,2 +1,2 @@
 # day1
-just starting git
+just starting git ..
